@@ -1,4 +1,4 @@
-# HackerRank
+# HackerRank Profile
 
 [Please, click here to view my profile](https://www.hackerrank.com/leonardoarruda1)
 
