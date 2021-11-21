@@ -1,17 +1,17 @@
 # HackerRank Profile
 
-[Please, click here to view my profile](https://www.hackerrank.com/leonardoarruda1)
+Please, [click here](https://www.hackerrank.com/leonardoarruda1) to view my profile!
 
 ## Interview Preparation
 
 ### Javascript
 
-| Challenge                                                                                | Difficult | Solution |
-| ---------------------------------------------------------------------------------------- | --------- | -------- |
-| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                   | Basic     | Solution |
-| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)               | Basic     | Solution |
-| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)         | Basic     | Solution |
-| [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)         | Basic     | Solution |
-| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)           | Basic     | Solution |
-| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Basic     | Solution |
-| [Counting Sort 1](https://www.hackerrank.com/challenges/counting-sort-1/problem)         | Basic     | Solution |
+| Challenge                                                                                | Difficult | Solution                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                   | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/plus-minus.js)          |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)               | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/mini-max-sum.js)        |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)         | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/time-conversion.js)     |
+| [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)         | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/find-the-median.js)     |
+| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)           | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/lonely-integer.js)      |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/diagonal-difference.js) |
+| [Counting Sort 1](https://www.hackerrank.com/challenges/counting-sort-1/problem)         | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/counting-sort-1.js)     |
