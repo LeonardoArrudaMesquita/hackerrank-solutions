@@ -18,6 +18,6 @@ Please, [click here](https://www.hackerrank.com/leonardoarruda1) to view my prof
 
 ### Java
 
-| Challenge                                                                          | Difficult | Solution                                                                                                                                                   |
-| ---------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/java/zig-zag-sequence.js) |
+| Challenge                                                                          | Difficult | Solution                                                                                                                                                     |
+| ---------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/java/zig-zag-sequence.java) |
