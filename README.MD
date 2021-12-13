@@ -14,4 +14,10 @@ Please, [click here](https://www.hackerrank.com/leonardoarruda1) to view my prof
 | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)         | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/find-the-median.js)     |
 | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)           | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/lonely-integer.js)      |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/diagonal-difference.js) |
-| [Counting Sort 1](https://www.hackerrank.com/challenges/counting-sort-1/problem)         | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/counting-sort-1.js)     |
+| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)           | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/javascript/counting-sort-1.js)     |
+
+### Java
+
+| Challenge                                                                          | Difficult | Solution                                                                                                                                                   |
+| ---------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | Basic     | [Solution](https://github.com/LeonardoArrudaMesquita/hackerrank-solutions/blob/master/interview-preparation/one-week-preparation/java/zig-zag-sequence.js) |
